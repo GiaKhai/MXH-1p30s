@@ -88,15 +88,6 @@ const CardFooter = ({post}) => {
                     <img src={Send} alt="Gửi" onClick={() => setIsShare(!isShare)} />
                 </div>
 
-                {
-                    saved 
-                    ?  <i className="fas fa-bookmark text-info"
-                    onClick={handleUnSavePost} />
-
-                    :  <i className="far fa-bookmark"
-                    onClick={handleSavePost} />
-                }
-               
             </div>
 
             <div className="d-flex justify-content-between">

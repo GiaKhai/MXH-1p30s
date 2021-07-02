@@ -24,10 +24,6 @@ const CardHeader = ({post}) => {
         }
     }
 
-    const handleCopyLink = () => {
-        navigator.clipboard.writeText(`${BASE_URL}/post/${post._id}`)
-    }
-
     return (
         <div className="card_header">
             <div className="d-flex">
@@ -63,9 +59,6 @@ const CardHeader = ({post}) => {
                         </>
                     }
 
-                    <div className="dropdown-item" onClick={handleCopyLink}>
-                        <span className="material-icons">content_copy</span> Copy Link
-                    </div>
                 </div>
             </div>
         </div>
