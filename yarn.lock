@@ -472,7 +472,7 @@
     "cloudinary-core" "^2.13.0"
     "prop-types" "^15.8.1"
 
-"cloudinary@^1.21.0", "cloudinary@^1.31.0":
+"cloudinary@^1.31.0":
   "integrity" "sha512-+A/x0gsmzBya4KPabY6Vmj1d1hxjI2kEhbKy52bahLFhDc5xiMhClWbzurYfFA83OUbwLQGZpjnW+Fwu1Kq3kQ=="
   "resolved" "https://registry.npmjs.org/cloudinary/-/cloudinary-1.31.0.tgz"
   "version" "1.31.0"
@@ -1447,7 +1447,7 @@
   "resolved" "https://registry.npmjs.org/lodash.once/-/lodash.once-4.1.1.tgz"
   "version" "4.1.1"
 
-"lodash@^4.17.21", "lodash@>=4.0":
+"lodash@^4.17.21":
   "integrity" "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="
   "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
   "version" "4.17.21"
@@ -1577,7 +1577,7 @@
   "resolved" "https://registry.npmjs.org/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz"
   "version" "1.0.2"
 
-"mongoose@*", "mongoose@^5.11.13":
+"mongoose@^5.11.13":
   "integrity" "sha512-rXbaxSJfLnKKO2RTm8MKt65glrtfKDc4ATEb6vEbbzsVGCiLut753K5axdpyvE7KeTH7GOh4LzmuQLOvaaWOmA=="
   "resolved" "https://registry.npmjs.org/mongoose/-/mongoose-5.11.13.tgz"
   "version" "5.11.13"
@@ -2048,13 +2048,6 @@
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
-
-"react@^16.3.3 || ^17.0.0 || ^18.0.0":
-  "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
-  "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
-  "version" "18.2.0"
-  dependencies:
-    "loose-envify" "^1.1.0"
 
 "read-pkg@^5.2.0":
   "integrity" "sha512-Ug69mNOpfvKDAc2Q8DRpMjjzdtrnv9HcSMX+4VsZxD1aZ6ZzrIE7rlzXBtWTyhULSMKg076AW6WR5iZpD0JiOg=="
