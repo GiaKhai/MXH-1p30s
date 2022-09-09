@@ -40,23 +40,13 @@ const RightSideBar = () => {
             <div style={{opacity: 0.5}} className="my-2" >
                 
                 <small className="d-block">
-                    Mạng xã hội 1p30s- Đồ án lập trình web
-                </small>
-                   
-                <small className="d-block">
-                   Nguyễn Hoàng Nhật - 5951071069
+                    Mạng xã hội - Đồ án tốt nghiệp
                 </small>
                 <small className="d-block">
                    Nguyễn Đình Gia Khải - 5951071042
                 </small>
-                <small className="d-block">
-                   Lê Nguyễn Thái Khang - 5951071043
-                </small>
-                <small className="d-block">
-                   Trần Thọ Hiền - 5951071026
-                </small>
                 <small>
-                   &copy; 2021 1p30 From nhóm 11 
+                   &copy; 2022
                 </small>
             </div>
 
